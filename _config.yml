@@ -212,7 +212,7 @@ kramdown:
   input: GFM
   hard_wrap: false
   auto_ids: true
-  header_links: true
+  header_links: false
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
