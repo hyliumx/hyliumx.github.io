@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a undergraduate student majoring Computer Science at UC San Diego (expected June 2028). I am interested in robot learning and machine learning algorithms, especially imitation learning and reinforcement learning, and in how robots can learn from demonstrations and human video.
+I am an undergraduate student majoring in Computer Science at UC San Diego (expected June 2028). I am interested in robot learning and machine learning algorithms, especially imitation learning and reinforcement learning, and in how robots can learn from demonstrations and human video.
 
 I am currently building my foundations in machine learning and RL. I am working through public course materials (Stanford cs231n and Berkeley cs285), implementing baselines in PyTorch, and reading recent robot learning papers. I am looking for opportunities to do research in a robot learning lab.
 
