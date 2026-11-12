@@ -14,7 +14,7 @@ redirect_from:
 Education
 ======
 * **University of California, San Diego** — B.S. in Computer Science, Warren College (Sep 2026 – Jun 2028, expected)
-  * Current coursework (Fall 2026): Mathematics for Algorithms and Systems (CSE 21), Systems Programming and Software Tools (CSE 29), Introduction to Robotics (CSE 276A)
+  * Current coursework (Fall 2026): Mathematics for Algorithms and Systems (CSE 21), Systems Programming and Software Tools (CSE 29), Auditing Introduction to Robotics (CSE 276A)
   * Transfer coursework: Linear Algebra, Multivariable Calculus, Differential Equations, Discrete Mathematics, Data Structures, Computer Organization
 
 Experience
